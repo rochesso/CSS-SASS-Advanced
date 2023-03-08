@@ -529,9 +529,16 @@
 .cta {
     padding: 3.5rem 0;
     text-align: center;
+    margin-left: 2rem;
 
     @media only screen and (max-width: $bp-medium) {
         padding: 2.5rem 0;
+
+    }
+
+    @media only screen and (max-width: $bp-small) {
+        margin-left: 0;
+
     }
 
     &__book-now {
@@ -565,7 +572,7 @@
     }
 
     &__visible {
-        padding: 2rem 7.5rem;
+        padding: 2rem 4.5rem;
     }
 
     &__invisible {
