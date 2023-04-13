@@ -10,12 +10,12 @@ Just to remember, all these projects are focused only on CSS, so none of them ha
 
 ### Natours
 
-https://rochesso-natours.web.app/
+https://natours.rochesso.com
 
 ### Trillo
 
-https://rochesso-trillo-ced7b.web.app/
+https://trillo.rochesso.com
 
 ### Nexter
 
-https://rochesso-nexter.web.app/
+https://nexter.rochesso.com
